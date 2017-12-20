@@ -4,14 +4,22 @@
   "private": true,
   "dependencies": {
     "axios": "^0.17.1",
+    "history": "^3.2.1",
+    "link-react": "^3.0.0",
     "material-ui": "^0.20.0",
     "npm-git-install": "^0.3.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-history": "^0.18.2",
+    "react-redux": "^5.0.6",
     "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-with-props": "^0.1.1",
     "react-scripts": "1.0.17",
     "react-select": "^1.1.0",
-    "react-tap-event-plugin": "^3.0.2"
+    "react-tap-event-plugin": "^3.0.2",
+    "redirect": "^0.2.0",
+    "redux": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
